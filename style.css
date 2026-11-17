@@ -51,7 +51,7 @@ mark{background:var(--yellow);color:#111;padding:0 8px}
 
 /* Cards + tool grid */
 .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin:30px 0}
-.card{background:#fff;border:2px solid #111;border-radius:16px;padding:22px;box-shadow:6px 6px 0 #111}
+.card{background:#fff;color:var(--ink);border:2px solid #111;border-radius:16px;padding:22px;box-shadow:6px 6px 0 #111}
 .card h3{margin:0 0 8px;font-weight:800}
 .card .ex{font-size:14px;color:var(--muted);margin:10px 0 0}
 .chip{display:inline-flex;align-items:center;justify-content:center;width:46px;height:46px;border-radius:12px;border:2px solid #111;background:var(--red);margin-bottom:12px}
